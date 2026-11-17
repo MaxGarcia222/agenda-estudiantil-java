@@ -1,6 +1,6 @@
 # Agenda Estudiantil (Java)
 
-Aplicación de consola para estudiantes, desarrollada en equipo como trabajo final de la materia [nombre de la materia] en la UTN Facultad Regional Mar del Plata (2025), junto a [Tiago Fueyo](link-a-su-github).
+Aplicación de consola para estudiantes, desarrollada en equipo como trabajo final de la materia [Programacion II] en la UTN Facultad Regional Mar del Plata (2025), junto a [Tiago Fueyo](https://github.com/tiagofueyovuillermoz-beep).
 
 Cada usuario inicia sesión con su rol. Los estudiantes tienen tres herramientas de organización (notas, tareas y calendario) y el administrador gestiona los usuarios.
 
